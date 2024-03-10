@@ -1,0 +1,92 @@
+{
+    "places": [
+        {
+            "id": "Ada Hayden Heritage Park",
+            "address": "5205 Grand Ave, Ames, IA 50010",
+            "subcat": "morning",
+            "img": "./images/Ada Medium.png"
+        },
+        {
+            "id": "Ames Public Library",
+            "address": "515 Douglas Ave, Ames, IA 500100",
+            "subcat": "afternoon",
+            "img": "./images/librarySign Medium.png"
+        },
+        {
+            "id": "Bandshell Park",
+            "address": "Duff Ave & 6th St, 125 E 5th St, Ames, IA 50010",
+            "subcat": "night",
+            "img": "./images/BandshellJaisa Medium.png"
+        },
+        {
+            "id": "Brookside Park",
+            "address": "1325 6th St, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/Brookside Park Medium.png"
+        },
+        {
+            "id": "Chocolaterie Stam",
+            "address": "230 Main St, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/MSstam Medium.png"
+        },
+        {
+            "id": "Dakota Crossing",
+            "address": "4518 Mortensen Rd, Ames, IA 50014",
+            "subcat": "afternoon",
+            "img": "./images/DakotaCrossingSign Medium.png"
+        },
+        {
+            "id": "Downtown Ames",
+            "address": "304 Main St, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/mainStreet Medium.png"
+        },
+        {
+            "id": "Duff Plaza",
+            "address": "301 S 16th St, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/DuffPlazaSign Medium.png"
+        },
+        
+        {
+            "id": "Furman Aquatic Center",
+            "address": "1635 13th St, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/pool Medium.png"
+        },
+        {
+            "id": "Georgie Tsushima Memorial Skate Park",
+            "address": "1330 6th Street Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/SkatePark Medium.png"
+        },
+        {
+            "id": "North Grand Mall",
+            "address": "2801 Grand Ave, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/NGMMural Medium.png"
+        },
+        {
+            "id": "Perfect Games",
+            "address": "1320 Dickinson Ave, Ames, IA 50014",
+            "subcat": "night",
+            "img": "./images/PG1 Medium.png"
+        },
+         {
+            "id": "South Duff Plaza",
+            "address": "1310 S Duff Ave #103, Ames, IA 50010",
+            "subcat": "afternoon",
+            "img": "./images/SDuffPlaza Medium.png"
+        },    
+        {
+            "id": "Vinyl Cafe",
+            "address": "303 Kellogg Ave, Ames, IA 50010",
+            "subcat": "morning",
+            "img": "./images/VinylCafe Medium.png"
+        }
+
+    ]
+
+
+}

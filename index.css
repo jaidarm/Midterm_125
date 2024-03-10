@@ -1,0 +1,77 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 80px;
+    font-size: 28px;
+}
+
+a {
+    font-size: 30px;
+}
+
+.description{
+    list-style: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.learn{
+    color:#000000;
+
+}
+
+.cover{
+    font-size: 90px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title{
+    padding-top: 60px;
+    /* font-family: "Playfair Display", Georgia, "Times New Roman", serif; */
+    text-emphasis: style;
+    font-size: 5rem;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#questions{
+    background-color: #ffdab3;
+    font-size: 28px;
+    
+}
+
+.main{
+    font-size: 40px;
+}
+
+
+
+#footer{
+    background-color: lightblue;
+    font-size: 15px;
+    font-family: cambria;
+    text-align: left;
+}
+
+.names{
+    margin-left: 5px;
+    text-align: left;
+}
+
+
+.about{
+    font-size: 15px;
+    color: #000000;
+    text-align: left;
+}
+
+.copyrights{
+   font-size: 15px;
+   font-family: 'Times New Roman';
+}
